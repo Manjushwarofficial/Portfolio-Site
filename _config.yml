@@ -1,0 +1,24 @@
+# GitHub Pages Jekyll configuration
+# This file tells GitHub Pages to NOT process this repository with Jekyll
+# Instead, it will serve static files as-is
+
+# Disable Jekyll processing
+theme: null
+plugins: []
+
+# Exclude unnecessary files
+exclude:
+  - node_modules/
+  - .git/
+  - .gitignore
+  - package.json
+  - package-lock.json
+  - vite.config.js
+  - README.md
+  - src/
+  - index.html
+  - .nojekyll
+
+# Keep the dist folder
+include:
+  - dist/
