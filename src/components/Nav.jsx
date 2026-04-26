@@ -43,7 +43,7 @@ function Nav() {
       </ul>
 
       {/* Desktop Resume Button */}
-      <a href="https://drive.google.com/file/d/1uZl-Z0SxFJhRfFp8JtaE5PUy5DiAEWUX/view?usp=share_link">
+      <a href="https://drive.google.com/file/d/1dYUaMuQ0e2hUmD-vx3h2U3ZA7U41Vpdw/view?usp=share_link">
         <button className="hidden md:block text-gray-400 hover:text-white bg-neutral-300/20 hover:bg-neutral-300/30 px-4 py-2 rounded-3xl backdrop-blur-sm transition-all duration-200">
         Resume
       </button>

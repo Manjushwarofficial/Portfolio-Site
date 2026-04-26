@@ -50,7 +50,7 @@ function App() {
         creatorName="Manjushwar Khairkar"
         creatorUrl=""
         brandIcon={
-          <a href='https://drive.google.com/file/d/1uZl-Z0SxFJhRfFp8JtaE5PUy5DiAEWUX/view?usp=share_link'><NotepadTextDashed className="w-8 sm:w-10 md:w-14 h-8 sm:h-10 md:h-14 text-background drop-shadow-lg" /></a>
+          <a href='https://drive.google.com/file/d/1dYUaMuQ0e2hUmD-vx3h2U3ZA7U41Vpdw/view?usp=share_link'><NotepadTextDashed className="w-8 sm:w-10 md:w-14 h-8 sm:h-10 md:h-14 text-background drop-shadow-lg" /></a>
         }
       />
     </div>
