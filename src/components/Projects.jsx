@@ -6,19 +6,28 @@ const projectsData = [
   {
     id: 1,
     title: "Glacier Classification & Segmentation Model",
-    more : "build by Manjushwa for the people and not by people ",
+    more : "build by Manjushwar for the people and not by people ",
     description:
       "Implemented SVM and Random Forest models to classify glacier retreat and perform pixel-level segmentation, achieving up to 99.94% accuracy through spectral and texture feature extraction.",
     backgroundImage: "https://sheryians.com/Assets/images/companies/card1.png",
   },
   {
     id: 2,
-    title: "Data Visualization of CSE Professors’ Research",
-    more : "build by Manjushwar for the people and not by people ",
+    title: "Hasdeo Forest Change Monitoring | Geospatial Data & Image Processing",
+    more: "built by Manjushwar for the people and not by people",
     description:
-      "Scraped and visualized research metrics for 40+ professors using Matplotlib and Pandas, improving performance prediction accuracy by 15% through robust validation techniques.",
+      "Built an end-to-end vegetation monitoring pipeline using satellite imagery, applying cloud masking, augmentation, and multispectral transformations (NDVI) to expand the dataset to 5000 samples; engineered GLCM texture, spectral, and morphological features with Random Forest classification, QGIS segmentation, and multi-year change detection, attaining 93% accuracy across five land cover classes.",
     backgroundImage: "https://sheryians.com/Assets/images/companies/card2.png",
   },
+  {
+    id: 3,
+    title: "RAG-Codebase-Debugger | High-Precision Code Retrieval",
+    more: "built by Manjushwar for the people and not by people",
+    description:
+      "Built a Retrieval-Augmented Generation system for high-precision retrieval and deep visibility into complex codebases, with a FAISS-based vector index for semantic search, a backend service for query handling, and a frontend interface for interactive debugging and exploration of large-scale code repositories.",
+    backgroundImage: "https://sheryians.com/Assets/images/companies/card2.png",
+  },
+
 ];
 
 function Projects() {
